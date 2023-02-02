@@ -1,0 +1,26 @@
+.bg {
+    position:absolute;
+    width:100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    /* border: 3px solid green; */
+    padding: 26.7% 0;
+}
+
+
+.centered-hor {
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 50px;
+  }
